@@ -8,6 +8,12 @@ Driven by:
 * [Netlify](https://www.netlify.com)
 * [Github](https://www.github.com)
 * [How to Deploy Gatsby's Public Folder to Github & Netlify?](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/)
+* [Wundergound API driven theme](https://www.wunderground.com/weather/api/d/pricing.html)
+
+## Demo
+
+https://jaegs-cjme.netlify.com/
+
 
 ## Deploy
 
